@@ -1,0 +1,196 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.navbar h3{
+    float: left;
+    font-weight: lighter;
+    font-family: unset;
+}
+.nav{
+    float: right;
+    margin-left: 380px;
+}
+.nav-link{
+    color: black;
+    font-family: unset;
+    font-size: smaller;
+}
+.word{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-image: url("../images/water2.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 585px;
+}
+.word h1{
+    color: white;
+    opacity: 0.8;
+    font-weight: 100;
+    font-size: 65px;
+}
+
+.word p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: white;
+}
+.click{
+    border: 1px solid blue;
+    padding: 13px 35px 13px 35px; 
+    color: white;
+    background-color: rgb(93, 93, 235);
+    text-transform: uppercase;
+    margin-right: 5px;
+}
+.click:hover{
+    background-color: rgb(79, 79, 235);
+}
+.btn2{
+    border: 1px solid white;
+    padding: 13px 35px 13px 35px;
+    color: white;
+    background-color: transparent;
+    text-transform: uppercase;
+}
+.btn2:hover{
+    background-color: white;
+    color: black;
+}
+.picword{
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+.pic{
+    float: left;
+    width: 450px;
+    margin-left: 150px;
+    margin-top: 60px;
+}
+.word2{
+    float: right;
+    width: 400px;
+    margin-right: 150px;
+    margin-top: 87px;
+    margin-bottom: 80px;
+}
+.font{
+    font-family: unset;
+    font-weight: 400;
+}
+.op{
+    opacity: 0.8;
+}
+.picword2{
+    background-color: rgb(245, 243, 243);
+    margin-top: 300px;
+    width: 1349px;
+    height: 620px;
+}
+.word3{
+    float: left;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 190px;
+    margin-bottom: 80px;
+}
+.pic2{
+    float: right;
+    width: 450px;
+    margin-right: 150px;
+    margin-top: 150px;
+}
+.small{
+    background-image: url("../images/water2.jpg");
+    height: 400px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.small h1{
+    color: white;
+    opacity: 0.8;
+    font-weight: 100;
+    font-size: 65px;   
+}
+.small p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: white;
+    width: 850px;
+    margin-left: 250px;
+}
+.limit{
+    width: 1349px;
+    height: 1418px;
+    background-color: rgb(245, 243, 243) ;
+}
+.options{
+    text-align: center;
+}
+.options p{
+    width: 957px;
+    margin-left: 180px;
+    opacity: 0.8;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.pic3{
+    width: 1100px;
+    margin-top: 30px;
+    margin-left: 135px ;
+}
+/*.projects{
+    width: 1349px;
+    height: 1300px;
+    background-color: rgb(49, 49, 49);
+    
+}
+.late{
+    text-align: center;
+    color: white;
+    position: absolute;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    margin-left: 500px;
+    font-family: unset;
+    font-size: larger;
+    font-weight: 400;
+}
+.pro{
+    margin-top: 20px;
+}*/
+.awe{
+    position: absolute;
+    width: 1349;
+    height: 200px;
+    background-color: rgb(245, 243, 243);
+    margin-top: 40px;
+    text-align: center;
+}
+.some{
+    margin-top: 90px;
+}
+.awe h3{
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-left: 250px;
+    font-size: 35px;
+}
+.awe p{
+    float: right;
+}
+/*.theme{
+    background-color: rgb(49,49,49);
+    width: 1349px;
+}*/
